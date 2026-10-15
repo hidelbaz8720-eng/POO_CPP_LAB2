@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1792082200 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab2\src\etudiant.cpp
+	"Etudiant.h"
+
+1792082200 c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab2\include\etudiant.h
+	<string>
+
+1792082322 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab2\src\filiere.cpp
+	"Filiere.h"
+	"Etudiant.h"
+	<iostream>
+	<algorithm>
+
+1792082200 c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab2\include\filiere.h
+	<string>
+	<vector>
+
+1792081732 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab2\main.cpp
+	<iostream>
+	"Etudiant.h"
+	"Filiere.h"
+
